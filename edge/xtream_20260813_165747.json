@@ -1,0 +1,13 @@
+{
+  "server": "http://edge.gy",
+  "username": "Bigpun123",
+  "password": "Bigpun123",
+  "m3u": "http://edge.gy/get.php?username=Bigpun123&password=Bigpun123&type=m3u_plus",
+  "channels": 0,
+  "movies": 0,
+  "series": 0,
+  "expiry": "Inconnue",
+  "expiry_formatted": "Inconnue",
+  "timestamp": "2026-08-13T16:57:47.315701",
+  "proxy_used": "http://159.65.221.25:80"
+}
