@@ -1,0 +1,13 @@
+{
+  "server": "edge.gy",
+  "username": "Carl123",
+  "password": "Carl123",
+  "m3u": "http://edge.gy/get.php?username=Carl123&password=Carl123&type=m3u_plus",
+  "channels": 0,
+  "movies": 0,
+  "series": 0,
+  "expiry": "1790036883",
+  "expiry_formatted": "2026-09-21 20:28:03",
+  "timestamp": "2026-08-13T23:28:47.251180",
+  "proxy_used": "http://216.26.242.164:3129"
+}
