@@ -24,5 +24,18 @@
     "expiry_formatted": "2027-01-23 17:20:45",
     "timestamp": "2026-08-15T21:56:36.668074",
     "proxy_used": "http://104.207.63.114:3129"
+  },
+  {
+    "server": "edge.gy",
+    "username": "Claude1234",
+    "password": "Claude1234",
+    "m3u": "http://edge.gy/get.php?username=Claude1234&password=Claude1234&type=m3u_plus",
+    "channels": 0,
+    "movies": 0,
+    "series": 0,
+    "expiry": "1793142161",
+    "expiry_formatted": "2026-10-27 19:02:41",
+    "timestamp": "2026-08-15T22:19:12.925303",
+    "proxy_used": "http://104.207.49.70:3129"
   }
 ]
